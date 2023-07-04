@@ -1,1 +1,0 @@
-all charts by state
